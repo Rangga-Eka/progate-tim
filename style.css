@@ -59,7 +59,7 @@ header {
 
 .header-list a {
   line-height: 70px;
-  padding: 0 15px;
+  padding: 0 16px;
   color: black;
   display: block;
   float: left;
@@ -71,9 +71,10 @@ header {
 }
 
 .menu-icon {
-  color: whitesmoke;
+  color: black;
   float: right;
-  padding: 27px 10px 0 0;
+  font-size: 22px;
+  padding: 23px 10px 0 0;
   display:none;
 }
 
