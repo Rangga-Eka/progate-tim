@@ -279,12 +279,13 @@ header {
   border-radius: 50%;
   width: 36px;
   transition: 0.3s;
-  border: 1px solid brown;
+  border: 1px solid antiquewhite;
 }
 
 .team-content a:hover {
   color: brown;
   background-color: whitesmoke;
+  border: 1px solid brown;
 }
 
 /* ------------------------- Batas Tim ------------------------- */
